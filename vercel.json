@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/Tailwind/src/HTML/index.html"
+        }
+    ]
+}

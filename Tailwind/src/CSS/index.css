@@ -1,0 +1,21 @@
+#bg-image {
+    background-image: url("/Tailwind/src/Image/Background-slide.webp");
+    background-repeat: no-repeat;
+}
+
+#position_relative {
+    position: relative;
+}
+
+#position_absolute {
+    /* width: 20%; */
+    /* height: 30px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color:#; */
+}
+
+#position_absolute {
+    left: 3px;
+}
